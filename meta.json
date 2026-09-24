@@ -1,0 +1,23 @@
+{
+  "repo": "privazer-complete",
+  "product": "Privazer Complete",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "privazer",
+    "privazer-windows",
+    "endpoint-security-desktop",
+    "how-to-install-privazer",
+    "privazer-desktop-package",
+    "privazer-workspace",
+    "privazer-pro-tools",
+    "privazer-suite",
+    "zentool-privazer",
+    "privazer-tool-9"
+  ],
+  "site": "zentool.art"
+}
